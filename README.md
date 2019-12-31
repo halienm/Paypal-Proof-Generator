@@ -10,3 +10,9 @@ It generates proof of paypal payment (example: You've sent 2334.21 EUR to exampl
 ![form](https://media.discordapp.net/attachments/657294370705244181/659131423051087904/Paypal_Proofs_Generator_-_Google_Chrome_12_24_2019_9_32_46_PM.png?width=400&height=225)
 
 You're done! All simple, easy
+
+## Donation 🤩 :
+
+Paypal: https://www.paypal.me/izoxpaypala
+
+Thanks to future donators ! ❤️
