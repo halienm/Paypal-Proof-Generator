@@ -12,7 +12,7 @@ It generates proof of paypal payment (example: You've sent 2334.21 EUR to exampl
 
 You're done! All simple, easy
 
-## Donation 🤩 :
+## 🤩 Donation :
 
 Paypal: https://www.paypal.me/izoxpaypala
 
