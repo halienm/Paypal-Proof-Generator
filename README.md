@@ -12,6 +12,9 @@ It generates proof of paypal payment (example: You've sent 2334.21 EUR to exampl
 
 You're done! All simple, easy
 
+## 🤗 Credits :
+By Izox (Filix) https://discord.gg/95U5w7t -- https://github.com/Izox-github/
+
 ## 🤩 Donation :
 
 Paypal: https://www.paypal.me/izoxpaypala
